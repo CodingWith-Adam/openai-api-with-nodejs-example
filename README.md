@@ -5,7 +5,7 @@
 ### YouTube Tutorial:
 
 Follow along with the video to create an API Key
-Coming soon
+https://youtu.be/l7Mu12SpI_o
 
 ### Description:
 
