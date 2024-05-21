@@ -13,7 +13,7 @@ In this tutorial, you will learn how to create an OpenAI API key(ChatGPT API key
 
 With the release of GPT-4o pricing will be cheaper and request will be faster!
 
-I also show you how to remove the following error:
+I will also show you how to remove the following error:
 
 ```
 DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
